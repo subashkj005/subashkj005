@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subash K J</h1>
 <h3 align="center">Self Taught Full Stack Python Developer</h3>
-- 🌱 I’m currently learning **Django, Flask, FastAPI**
-- 💬 Ask me about **React**
-- 📫 How to reach me **subashkj005@gmail.com**
+<br><br>💻 Self-taught and driven by curiosity, I've mastered a diverse array of technologies and frameworks, including:<br><br><strong>Python/Django:</strong> Proficient in building robust backend systems and full-fledged web applications.<br><strong>Flask/FastAPI:</strong> Experienced in developing RESTful APIs with lightweight and efficient frameworks.<br><strong>JavaScript/React/Redux:</strong> Skilled in creating interactive and dynamic user interfaces for modern web applications.<br><strong>HTML/CSS/Bootstrap/Tailwind:</strong> Expertise in front-end development, ensuring pixel-perfect designs and responsive layouts.<br><strong>SQL/MySQL/MongoDB:</strong> Proficient in designing and querying databases to store and retrieve data efficiently.<br><strong>Microservices Architecture:</strong> Experienced in building scalable and resilient applications using microservices and containerization with Docker and Kubernetes.<br>🚀 What fuels my passion is the opportunity to tackle complex challenges and create impactful solutions. I thrive in dynamic environments where I can continuously learn and grow, pushing the boundaries of what's possible in web development.<br><br><br><br>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/subash-k-j-397b72284/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/subashkj005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
